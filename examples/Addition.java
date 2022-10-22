@@ -1,6 +1,5 @@
 //figura 2.7 Addition.java
-// Programa de adição que insere dois números, então exibe a soma deles.ç
-package CódigosParaAnalisar;
+// Programa de adição que insere dois números, então exibe a soma deles.
 
 import java.util.Scanner;
 

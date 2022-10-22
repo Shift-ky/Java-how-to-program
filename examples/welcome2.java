@@ -1,4 +1,3 @@
-package CódigosParaAnalisar;
 
 public class welcome2 {
 	
