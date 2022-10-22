@@ -1,11 +1,12 @@
-//figura 2.7 Addition.java
-// Programa de adição que insere dois números, então exibe a soma deles.
 
 import java.util.Scanner;
 
 public class Addition 
 {
 	//método main inicia a execução do aplicativo java
+	/**
+	 * @param args
+	 */
 	public static void main(String[] args) {
 		
 		// criar um Scanner para obter a entrada da janela de comando
@@ -23,7 +24,9 @@ public class Addition
 		number2 = input.nextInt(); // lê o segundo número fornecido pelo usuário
 		sum = number1 + number2;
 		
-		System.out.printf("Sum is %d%n", sum); // exibe a soma
+		System.out.printf("Sum is %d%n", sum); // exibe a soma,
+
+		input.close();
 	
 	}//fim metodo main
 }// fim metodo Addition
