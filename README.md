@@ -11,8 +11,11 @@ This repository is the was created for my personal study in language java. that 
 ## Getting started
 * Clone the repository. <br>
 $ git clone https://github.com/Shift-ky/Java-how-to-program
-* Open the item html in your browser: <br>
-$ Now it's time to test the application
+* Building the application: <br>
+$ run build
+
+* Running application <br>
+$ Now it's time to test the apps
 
 ## Links
 
